@@ -403,9 +403,9 @@ h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 60vh;
+  height: 70vh;
   position: relative;
-  background: url("../img/hero-carousel/1.jpg") no-repeat;
+  background: url("../img/hero-carousel/1-Termite-Control-Service-Thrissur-Kerala.jpg") no-repeat;
   background-size: cover;
   padding: 0;
 }
@@ -478,7 +478,7 @@ h6 {
 
 #hero .hero-slider {
   z-index: 8;
-  height: 60vh;
+  height: 70vh;
 }
 
 #hero .hero-slider::before {
