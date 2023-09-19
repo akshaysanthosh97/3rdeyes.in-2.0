@@ -605,21 +605,27 @@ section {
   padding: 60px 0 30px 0;
 }
 
-#about .about-img {
+#about .about-img .about-img2 {
   overflow: hidden;
 }
 
-#about .about-img img {
-  margin-left: -15px;
+#about .about-img .about-img2 img {
+  margin-left: -5px;
   max-width: 100%;
 }
 
+#about .about-img2 img {
+  margin-left: 75px;
+  max-width: 100%;
+  padding-top: 30px;
+}
+
 @media (max-width: 768px) {
-  #about .about-img {
+  #about .about-img .about-img2 {
     height: auto;
   }
 
-  #about .about-img img {
+  #about .about-img .about-img2 img {
     margin-left: 0;
     padding-bottom: 30px;
   }
