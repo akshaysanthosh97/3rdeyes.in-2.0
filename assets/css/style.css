@@ -438,6 +438,7 @@ h6 {
 
 #hero .hero-content h5 {
   color: #0c2e8a;
+  background-color: #ffffff99;
 }
 
 @media (max-width: 767px) {
@@ -487,7 +488,7 @@ h6 {
 
 #hero .hero-slider::before {
   content: "";
-  background-color: rgba(224, 224, 224, 0.666);
+  background-color: #ffffff33;
   position: absolute;
   height: 100%;
   width: 100%;
