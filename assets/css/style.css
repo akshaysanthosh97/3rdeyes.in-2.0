@@ -617,7 +617,7 @@ section {
 }
 
 #about .about-img2 img {
-  margin-left: 75px;
+  padding-left: 75px;
   max-width: 100%;
   padding-top: 30px;
 }
