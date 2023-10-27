@@ -611,15 +611,9 @@ section {
   overflow: hidden;
 }
 
-#about .about-img .about-img2 img {
+#about .about-img img {
   margin-left: -5px;
   max-width: 100%;
-}
-
-#about .about-img2 img {
-  padding-left: 75px;
-  max-width: 100%;
-  padding-top: 30px;
 }
 
 @media (max-width: 768px) {
